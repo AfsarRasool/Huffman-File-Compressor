@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Huffman File Compressor
 
 A C++ file compression and decompression project based on the Huffman Coding algorithm.
@@ -43,3 +44,7 @@ huffman.exe
 - `HuffmanTree.cpp` — heap construction, Huffman tree construction, code generation, traversal, and cleanup.
 - `FileHandler.cpp` — frequency counting, binary header/table handling, bitstream encoding/decoding, and summaries.
 - `main.cpp` — command-line menu and program flow.
+=======
+# Huffman-File-Compressor
+A C++ file compression and decompression program using Huffman Coding.
+>>>>>>> 9771f539284f28149e87bbea403087d0409be499
