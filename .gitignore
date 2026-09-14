@@ -1,0 +1,21 @@
+# Build outputs
+*.exe
+*.out
+*.o
+*.obj
+
+# Generated compression/decompression files
+encoded.bin
+decoded.txt
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
